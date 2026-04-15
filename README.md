@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Currículo - Arthur Morgan</title>
-</head>
 <body>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOazeCqzjfsLdEH4-7sPWY1P0HbLTkWnmEg&s" width="130"> 
